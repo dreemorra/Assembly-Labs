@@ -1,0 +1,6 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include "WIN32/resource.rc"
+
+A ICON "test.ico"

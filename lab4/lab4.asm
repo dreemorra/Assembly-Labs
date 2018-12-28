@@ -1,6 +1,6 @@
 ; NASM assembly x64, lab 4
 ;
-; nasm -f elf64 lab2.asm && ld -o lab2 lab2.o
+; nasm -f elf64 lab4.asm && ld -o lab4 lab4.o
 ;
 ; read string from console, delete vowels and display result in console
 ;
